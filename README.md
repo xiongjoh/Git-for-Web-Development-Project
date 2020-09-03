@@ -33,13 +33,13 @@ Stretch Review questions:
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
 Stretch Git Tasks
-- [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
-  - [ ] Research and understand what a `merge conflict` is and how to resolve it.
-  - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
-  - [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
+- [ x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
+  - [ x] Research and understand what a `merge conflict` is and how to resolve it.
+  - [ x] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
+  - [ x] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
 
-- [ ] Research and set up a Graphical User Interface (GUI) Git console. 
+- [ x] Research and set up a Graphical User Interface (GUI) Git console. 
 
-- [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+- [ ]x Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
 
